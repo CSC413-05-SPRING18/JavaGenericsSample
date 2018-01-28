@@ -3,8 +3,6 @@ class SomeClass{
 }
 
 public class GenericWrapper<Type> {
-
-  // An object of type T is declared
   Type objectA;
   Type objectB;
   Type objectC;
